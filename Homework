@@ -1,10 +1,5 @@
-mkdir -p homework/6-dars
-touch homework/6-dars/readme.md
-echo "Bu 6-dars uyga vazifasi" > homework/6-dars/readme.md
-
-git add .
-git commit -m "6-dars uchun homework papkasi yaratildi"
-git push
+Hatolik Ketib qoldi
+6-dars homeworkini brach ga otib masterdan ko'rishingiz mumkin
 
 
 
